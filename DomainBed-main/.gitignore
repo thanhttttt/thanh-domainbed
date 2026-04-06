@@ -1,0 +1,7 @@
+__pycache__
+domainbed/facebook.py
+
+domainbed/data/*
+domainbed/misc/*
+train_output/*
+.venv
